@@ -13,7 +13,7 @@ public class main {
     public static void main(String[] args) {
         int opcion;
         do {
-            System.out.println("\n====== SISTEMA DE GESTIÓN - TECHLAB ======");
+            System.out.println("\n====== SISTEMA DE GESTIÓN - TALENTO TECH ======");
             System.out.println("1) Agregar producto");
             System.out.println("2) Listar productos");
             System.out.println("3) Buscar/Actualizar producto");
